@@ -33,20 +33,16 @@ Automatically analyze user messages and generate **structured IT support tickets
 
 
 AI_TICKET_PROJECT/
-│
-├── app.py                     # Streamlit frontend
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-├── .gitignore                 # Git ignored files
-│
+├── app.py                  # Streamlit frontend
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+├── .gitignore              # Git ignored files
 ├── data/
 │   └── all_tickets_processed_improved_v3.csv
-│
 ├── scripts/
-│   └── ticket_ai.py           # Backend ML & NLP logic
-│
-└── docs/
-    └── project_overview.txt
+│   └── ticket_ai.py        # Backend ML & NLP logic
+├── docs/
+└── project_overview.txt
 
 
 ---
@@ -159,3 +155,4 @@ My laptop is not working urgently and shows error 404.
 ## 👩‍💻 Author
 Computer Engineering Student  
 AI & Machine Learning Project – 2025
+
