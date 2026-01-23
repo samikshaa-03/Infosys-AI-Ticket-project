@@ -31,7 +31,7 @@ Automatically analyze user messages and generate **structured IT support tickets
 
 ## 📂 Project Structure
 
-
+```text
 AI_TICKET_PROJECT/
 ├── app.py                  # Streamlit frontend
 ├── requirements.txt        # Python dependencies
@@ -155,4 +155,5 @@ My laptop is not working urgently and shows error 404.
 ## 👩‍💻 Author
 Computer Engineering Student  
 AI & Machine Learning Project – 2025
+
 
